@@ -1,0 +1,205 @@
+TUM YUZEYLER	--------------------
+Yüzey Numarasý=	 1	 Kenarlar=	001,013,003,004
+Yüzey Numarasý=	 2	 Kenarlar=	003,014,007,012
+Yüzey Numarasý=	 3	 Kenarlar=	005,015,007,008
+Yüzey Numarasý=	 4	 Kenarlar=	001,016,005,009
+Yüzey Numarasý=	 6	 Kenarlar=	004,012,008,009
+Yüzey Numarasý=	 5	 Kenarlar=	002,011,006,010
+Yüzey Numarasý=	 7	 Kenarlar=	013,014,015,016
+Yüzey Numarasý=	 8	 Kenarlar=	017,021,018,013
+Yüzey Numarasý=	 9	 Kenarlar=	018,022,019,014
+Yüzey Numarasý=	 10	 Kenarlar=	020,023,019,015
+Yüzey Numarasý=	 11	 Kenarlar=	017,024,020,016
+Yüzey Numarasý=	 12	 Kenarlar=	021,022,023,024
+Yüzey Numarasý=	 13	 Kenarlar=	025,029,026,021
+Yüzey Numarasý=	 14	 Kenarlar=	026,030,027,022
+Yüzey Numarasý=	 15	 Kenarlar=	028,031,027,023
+Yüzey Numarasý=	 16	 Kenarlar=	025,032,028,024
+Yüzey Numarasý=	 17	 Kenarlar=	029,030,031,032
+Yüzey Numarasý=	 18	 Kenarlar=	033,037,034,029
+Yüzey Numarasý=	 19	 Kenarlar=	034,046,035,030
+Yüzey Numarasý=	 20	 Kenarlar=	036,039,035,031
+Yüzey Numarasý=	 21	 Kenarlar=	033,040,036,032
+Yüzey Numarasý=	 22	 Kenarlar=	037,038,039,040
+Yüzey Numarasý=	 23	 Kenarlar=	041,002,042,037
+Yüzey Numarasý=	 24	 Kenarlar=	042,011,043,038
+Yüzey Numarasý=	 25	 Kenarlar=	044,006,043,039
+Yüzey Numarasý=	 26	 Kenarlar=	041,048,044,040
+Yüzey Numarasý=	 27	 Kenarlar=	045,046,047,048
+Yüzey Numarasý=	 28	 Kenarlar=	050,038,051,046
+Yüzey Numarasý=	 29	 Kenarlar=	049,010,052,048
+TUM KENARLAR	--------------------
+Kenar Numarasý=	 1	 A Nokta Numarasý=	 1	 B Nokta Numarasý=	 9	 Ekseni=Y
+Kenar Numarasý=	 2	 A Nokta Numarasý=	 2	 B Nokta Numarasý=	 3	 Ekseni=Z
+Kenar Numarasý=	 3	 A Nokta Numarasý=	 4	 B Nokta Numarasý=	 10	 Ekseni=Y
+Kenar Numarasý=	 4	 A Nokta Numarasý=	 1	 B Nokta Numarasý=	 4	 Ekseni=Z
+Kenar Numarasý=	 5	 A Nokta Numarasý=	 5	 B Nokta Numarasý=	 12	 Ekseni=Y
+Kenar Numarasý=	 6	 A Nokta Numarasý=	 6	 B Nokta Numarasý=	 7	 Ekseni=Z
+Kenar Numarasý=	 7	 A Nokta Numarasý=	 8	 B Nokta Numarasý=	 11	 Ekseni=Y
+Kenar Numarasý=	 8	 A Nokta Numarasý=	 5	 B Nokta Numarasý=	 8	 Ekseni=Z
+Kenar Numarasý=	 9	 A Nokta Numarasý=	 5	 B Nokta Numarasý=	 1	 Ekseni=X
+Kenar Numarasý=	 10	 A Nokta Numarasý=	 6	 B Nokta Numarasý=	 2	 Ekseni=X
+Kenar Numarasý=	 11	 A Nokta Numarasý=	 7	 B Nokta Numarasý=	 3	 Ekseni=X
+Kenar Numarasý=	 12	 A Nokta Numarasý=	 8	 B Nokta Numarasý=	 4	 Ekseni=X
+Kenar Numarasý=	 13	 A Nokta Numarasý=	 9	 B Nokta Numarasý=	 10	 Ekseni=Z
+Kenar Numarasý=	 14	 A Nokta Numarasý=	 11	 B Nokta Numarasý=	 10	 Ekseni=X
+Kenar Numarasý=	 15	 A Nokta Numarasý=	 12	 B Nokta Numarasý=	 11	 Ekseni=Z
+Kenar Numarasý=	 16	 A Nokta Numarasý=	 12	 B Nokta Numarasý=	 9	 Ekseni=X
+Kenar Numarasý=	 17	 A Nokta Numarasý=	 9	 B Nokta Numarasý=	 13	 Ekseni=Y
+Kenar Numarasý=	 18	 A Nokta Numarasý=	 10	 B Nokta Numarasý=	 14	 Ekseni=Y
+Kenar Numarasý=	 19	 A Nokta Numarasý=	 11	 B Nokta Numarasý=	 15	 Ekseni=Y
+Kenar Numarasý=	 20	 A Nokta Numarasý=	 12	 B Nokta Numarasý=	 16	 Ekseni=Y
+Kenar Numarasý=	 21	 A Nokta Numarasý=	 13	 B Nokta Numarasý=	 14	 Ekseni=Z
+Kenar Numarasý=	 22	 A Nokta Numarasý=	 15	 B Nokta Numarasý=	 14	 Ekseni=X
+Kenar Numarasý=	 23	 A Nokta Numarasý=	 16	 B Nokta Numarasý=	 15	 Ekseni=Z
+Kenar Numarasý=	 24	 A Nokta Numarasý=	 16	 B Nokta Numarasý=	 13	 Ekseni=X
+Kenar Numarasý=	 25	 A Nokta Numarasý=	 13	 B Nokta Numarasý=	 17	 Ekseni=Y
+Kenar Numarasý=	 26	 A Nokta Numarasý=	 14	 B Nokta Numarasý=	 18	 Ekseni=Y
+Kenar Numarasý=	 27	 A Nokta Numarasý=	 15	 B Nokta Numarasý=	 19	 Ekseni=Y
+Kenar Numarasý=	 28	 A Nokta Numarasý=	 16	 B Nokta Numarasý=	 20	 Ekseni=Y
+Kenar Numarasý=	 29	 A Nokta Numarasý=	 17	 B Nokta Numarasý=	 18	 Ekseni=Z
+Kenar Numarasý=	 30	 A Nokta Numarasý=	 19	 B Nokta Numarasý=	 18	 Ekseni=X
+Kenar Numarasý=	 31	 A Nokta Numarasý=	 20	 B Nokta Numarasý=	 19	 Ekseni=Z
+Kenar Numarasý=	 32	 A Nokta Numarasý=	 20	 B Nokta Numarasý=	 17	 Ekseni=X
+Kenar Numarasý=	 33	 A Nokta Numarasý=	 17	 B Nokta Numarasý=	 21	 Ekseni=Y
+Kenar Numarasý=	 34	 A Nokta Numarasý=	 18	 B Nokta Numarasý=	 26	 Ekseni=Y
+Kenar Numarasý=	 35	 A Nokta Numarasý=	 19	 B Nokta Numarasý=	 27	 Ekseni=Y
+Kenar Numarasý=	 36	 A Nokta Numarasý=	 20	 B Nokta Numarasý=	 24	 Ekseni=Y
+Kenar Numarasý=	 37	 A Nokta Numarasý=	 21	 B Nokta Numarasý=	 22	 Ekseni=Z
+Kenar Numarasý=	 38	 A Nokta Numarasý=	 23	 B Nokta Numarasý=	 22	 Ekseni=X
+Kenar Numarasý=	 39	 A Nokta Numarasý=	 24	 B Nokta Numarasý=	 23	 Ekseni=Z
+Kenar Numarasý=	 40	 A Nokta Numarasý=	 24	 B Nokta Numarasý=	 21	 Ekseni=X
+Kenar Numarasý=	 41	 A Nokta Numarasý=	 21	 B Nokta Numarasý=	 25	 Ekseni=Y
+Kenar Numarasý=	 42	 A Nokta Numarasý=	 22	 B Nokta Numarasý=	 3	 Ekseni=Y
+Kenar Numarasý=	 43	 A Nokta Numarasý=	 23	 B Nokta Numarasý=	 7	 Ekseni=Y
+Kenar Numarasý=	 44	 A Nokta Numarasý=	 24	 B Nokta Numarasý=	 28	 Ekseni=Y
+Kenar Numarasý=	 45	 A Nokta Numarasý=	 25	 B Nokta Numarasý=	 26	 Ekseni=Z
+Kenar Numarasý=	 46	 A Nokta Numarasý=	 27	 B Nokta Numarasý=	 26	 Ekseni=X
+Kenar Numarasý=	 47	 A Nokta Numarasý=	 28	 B Nokta Numarasý=	 27	 Ekseni=Z
+Kenar Numarasý=	 48	 A Nokta Numarasý=	 28	 B Nokta Numarasý=	 25	 Ekseni=X
+Kenar Numarasý=	 49	 A Nokta Numarasý=	 25	 B Nokta Numarasý=	 2	 Ekseni=Y
+Kenar Numarasý=	 50	 A Nokta Numarasý=	 26	 B Nokta Numarasý=	 22	 Ekseni=Y
+Kenar Numarasý=	 51	 A Nokta Numarasý=	 27	 B Nokta Numarasý=	 23	 Ekseni=Y
+Kenar Numarasý=	 52	 A Nokta Numarasý=	 28	 B Nokta Numarasý=	 6	 Ekseni=Y
+TUM NOKTALAR	--------------------
+Numara=	 1	 X=	 0	 Y=	 0	 Z=	 0
+Numara=	 2	 X=	 0	 Y=	 150	 Z=	 0
+Numara=	 3	 X=	 0	 Y=	 150	 Z=	 50
+Numara=	 4	 X=	 0	 Y=	 0	 Z=	 50
+Numara=	 5	 X=	 50	 Y=	 0	 Z=	 0
+Numara=	 6	 X=	 50	 Y=	 150	 Z=	 0
+Numara=	 7	 X=	 50	 Y=	 150	 Z=	 50
+Numara=	 8	 X=	 50	 Y=	 0	 Z=	 50
+Numara=	 9	 X=	 1.48957131798713E-15	 Y=	 24.3273491655129	 Z=	 1.48957131798713E-15
+Numara=	 10	 X=	 3.57355214905207E-16	 Y=	 5.8362462972659	 Z=	 50
+Numara=	 11	 X=	 50	 Y=	 5.8362462972659	 Z=	 50
+Numara=	 12	 X=	 50	 Y=	 24.3273491655129	 Z=	 1.48957131798713E-15
+Numara=	 13	 X=	 2.30494103989126E-15	 Y=	 37.6437870454749	 Z=	 2.30494103989126E-15
+Numara=	 14	 X=	 1.23426270602872E-15	 Y=	 20.1577054075573	 Z=	 50
+Numara=	 15	 X=	 50	 Y=	 20.1577054075573	 Z=	 50
+Numara=	 16	 X=	 50	 Y=	 37.6437870454749	 Z=	 2.30494103989126E-15
+Numara=	 17	 X=	 4.86691403878442E-15	 Y=	 79.4853631714922	 Z=	 4.86691403878442E-15
+Numara=	 18	 X=	 3.56756634176726E-15	 Y=	 58.2647040925728	 Z=	 50
+Numara=	 19	 X=	 50	 Y=	 58.2647040925728	 Z=	 50
+Numara=	 20	 X=	 50	 Y=	 79.4853631714922	 Z=	 4.86691403878442E-15
+Numara=	 21	 X=	 8.3601567427913E-15	 Y=	 136.536230057874	 Z=	 8.3601567427913E-15
+Numara=	 22	 X=	 7.51620565731705E-15	 Y=	 122.753007672329	 Z=	 50
+Numara=	 23	 X=	 50	 Y=	 122.753007672329	 Z=	 50
+Numara=	 24	 X=	 50	 Y=	 136.536230057874	 Z=	 8.3601567427913E-15
+Numara=	 25	 X=	 8.62923767040083E-15	 Y=	 140.930800227621	 Z=	 8.62923767040083E-15
+Numara=	 26	 X=	 4.66168452515621E-15	 Y=	 76.1336001663823	 Z=	 50
+Numara=	 27	 X=	 50	 Y=	 76.1336001663823	 Z=	 50
+Numara=	 28	 X=	 50	 Y=	 140.930800227621	 Z=	 8.62923767040083E-15
+Kutle Yüzeyleri	001,002,003,004,006,007
+Yuzey	 1	Kenarlar	001,013,003,004
+Kenar	 1	Noktalar	 0, 0, 0	 0, 0, 0
+Kenar	 13	Noktalar	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 3	Noktalar	 0, 0, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 4	Noktalar	 0, 0, 0	 0, 0, 50
+Yuzey	 2	Kenarlar	003,014,007,012
+Kenar	 3	Noktalar	 0, 0, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 14	Noktalar	 50, 5.8362462972659, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 7	Noktalar	 50, 0, 50	 50, 5.8362462972659, 50
+Kenar	 12	Noktalar	 50, 0, 50	 0, 0, 50
+Yuzey	 3	Kenarlar	005,015,007,008
+Kenar	 5	Noktalar	 50, 0, 0	 50, 24.3273491655129, 1.48957131798713E-15
+Kenar	 15	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 5.8362462972659, 50
+Kenar	 7	Noktalar	 50, 0, 50	 50, 5.8362462972659, 50
+Kenar	 8	Noktalar	 50, 0, 0	 50, 0, 50
+Yuzey	 4	Kenarlar	001,016,005,009
+Kenar	 1	Noktalar	 0, 0, 0	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15
+Kenar	 16	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15
+Kenar	 5	Noktalar	 50, 0, 0	 50, 24.3273491655129, 1.48957131798713E-15
+Kenar	 9	Noktalar	 50, 0, 0	 0, 0, 0
+Yuzey	 6	Kenarlar	004,012,008,009
+Kenar	 4	Noktalar	 0, 0, 0	 0, 0, 50
+Kenar	 12	Noktalar	 50, 0, 50	 0, 0, 50
+Kenar	 8	Noktalar	 50, 0, 0	 50, 0, 50
+Kenar	 9	Noktalar	 50, 0, 0	 0, 0, 0
+Yuzey	 7	Kenarlar	013,014,015,016
+Kenar	 13	Noktalar	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 14	Noktalar	 50, 5.8362462972659, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 15	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 5.8362462972659, 50
+Kenar	 16	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15
+Kutle Yüzeyleri	008,009,010,011,007,012
+Yuzey	 8	Kenarlar	017,021,018,013
+Kenar	 17	Noktalar	 0, 0, 0	 0, 0, 0
+Kenar	 21	Noktalar	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 18	Noktalar	 3.57355214905207E-16, 5.8362462972659, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 13	Noktalar	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15	 3.57355214905207E-16, 5.8362462972659, 50
+Yuzey	 9	Kenarlar	018,022,019,014
+Kenar	 18	Noktalar	 3.57355214905207E-16, 5.8362462972659, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 22	Noktalar	 50, 20.1577054075573, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 19	Noktalar	 50, 5.8362462972659, 50	 50, 20.1577054075573, 50
+Kenar	 14	Noktalar	 50, 5.8362462972659, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Yuzey	 10	Kenarlar	020,023,019,015
+Kenar	 20	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 37.6437870454749, 2.30494103989126E-15
+Kenar	 23	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 20.1577054075573, 50
+Kenar	 19	Noktalar	 50, 5.8362462972659, 50	 50, 20.1577054075573, 50
+Kenar	 15	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 5.8362462972659, 50
+Yuzey	 11	Kenarlar	017,024,020,016
+Kenar	 17	Noktalar	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15
+Kenar	 24	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15
+Kenar	 20	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 37.6437870454749, 2.30494103989126E-15
+Kenar	 16	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15
+Yuzey	 7	Kenarlar	013,014,015,016
+Kenar	 13	Noktalar	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 14	Noktalar	 50, 5.8362462972659, 50	 3.57355214905207E-16, 5.8362462972659, 50
+Kenar	 15	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 50, 5.8362462972659, 50
+Kenar	 16	Noktalar	 50, 24.3273491655129, 1.48957131798713E-15	 1.48957131798713E-15, 24.3273491655129, 1.48957131798713E-15
+Yuzey	 12	Kenarlar	021,022,023,024
+Kenar	 21	Noktalar	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 22	Noktalar	 50, 20.1577054075573, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 23	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 20.1577054075573, 50
+Kenar	 24	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15
+Kutle Yüzeyleri	013,014,015,016,012,017
+Yuzey	 13	Kenarlar	025,029,026,021
+Kenar	 25	Noktalar	 0, 0, 0	 0, 0, 0
+Kenar	 29	Noktalar	 4.86691403878442E-15, 79.4853631714922, 4.86691403878442E-15	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 26	Noktalar	 1.23426270602872E-15, 20.1577054075573, 50	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 21	Noktalar	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15	 1.23426270602872E-15, 20.1577054075573, 50
+Yuzey	 14	Kenarlar	026,030,027,022
+Kenar	 26	Noktalar	 1.23426270602872E-15, 20.1577054075573, 50	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 30	Noktalar	 50, 58.2647040925728, 50	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 27	Noktalar	 50, 20.1577054075573, 50	 50, 58.2647040925728, 50
+Kenar	 22	Noktalar	 50, 20.1577054075573, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Yuzey	 15	Kenarlar	028,031,027,023
+Kenar	 28	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 79.4853631714922, 4.86691403878442E-15
+Kenar	 31	Noktalar	 50, 79.4853631714922, 4.86691403878442E-15	 50, 58.2647040925728, 50
+Kenar	 27	Noktalar	 50, 20.1577054075573, 50	 50, 58.2647040925728, 50
+Kenar	 23	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 20.1577054075573, 50
+Yuzey	 16	Kenarlar	025,032,028,024
+Kenar	 25	Noktalar	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15	 4.86691403878442E-15, 79.4853631714922, 4.86691403878442E-15
+Kenar	 32	Noktalar	 50, 79.4853631714922, 4.86691403878442E-15	 4.86691403878442E-15, 79.4853631714922, 4.86691403878442E-15
+Kenar	 28	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 79.4853631714922, 4.86691403878442E-15
+Kenar	 24	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15
+Yuzey	 12	Kenarlar	021,022,023,024
+Kenar	 21	Noktalar	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 22	Noktalar	 50, 20.1577054075573, 50	 1.23426270602872E-15, 20.1577054075573, 50
+Kenar	 23	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 50, 20.1577054075573, 50
+Kenar	 24	Noktalar	 50, 37.6437870454749, 2.30494103989126E-15	 2.30494103989126E-15, 37.6437870454749, 2.30494103989126E-15
+Yuzey	 17	Kenarlar	029,030,031,032
+Kenar	 29	Noktalar	 4.86691403878442E-15, 79.4853631714922, 4.86691403878442E-15	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 30	Noktalar	 50, 58.2647040925728, 50	 3.56756634176726E-15, 58.2647040925728, 50
+Kenar	 31	Noktalar	 50, 79.4853631714922, 4.86691403878442E-15	 50, 58.2647040925728, 50
+Kenar	 32	Noktalar	 50, 79.4853631714922, 4.86691403878442E-15	 4.86691403878442E-15, 79.4853631714922, 4.86691403878442E-15
